@@ -1,0 +1,23 @@
+{
+    "name": "solana-php/solana-php",
+    "version": "0.1.0",
+    "description": "Solana Web3.js implementation for PHP",
+    "keywords": [
+        "solana-php-sdk",
+        "blockchain",
+        "solana",
+        "sol",
+        "sdk",
+        "php"
+    ],
+    "homepage": "https://github.com/BeycanDeveloper/solana-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Halil Beycan",
+            "email": "halilbeycan0@gmail.com",
+            "homepage": "https://halilbeycan.com",
+            "role": "Developer"
+        }
+    ]
+}
